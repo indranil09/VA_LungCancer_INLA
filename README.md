@@ -14,3 +14,5 @@ The code for this study has been organized as follows:
 * Implementing GLM in INLA with simultaneous missing covariates imputation
 * Plots from the manuscript
 * Comparison with no-imputation models
+
+The results from this study can be viewed [here](https://github.com/indranil09/VA_LungCancer_INLA/blob/main/VAlungINLA.md).
